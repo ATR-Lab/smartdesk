@@ -1,0 +1,6 @@
+[submodule "smartdesk-web-app"]
+	path = smartdesk-web-app
+	url = https://github.com/ATR-Lab/smartdesk-web-app.git
+[submodule "smartdesk-alexa"]
+	path = smartdesk-alexa
+	url = https://github.com/ATR-Lab/smartdesk-alexa.git
